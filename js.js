@@ -1,5 +1,5 @@
 let taskList=[{item:"Hello",onDate:"25-03-2026"},
-    {item:"World",onDate:"25-03-2026"}];
+    {item:"Dear",onDate:"25-03-2026"}];
 displayTask();
 function addTask(){
     let inputTask=document.querySelector('.action-input1');
